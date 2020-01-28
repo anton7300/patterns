@@ -1,0 +1,53 @@
+[15-Jan-2020 13:04:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Pdf' not found in /home/akihstmdz28t/requests/factory/pagefactory.php:8
+Stack trace:
+#0 /home/akihstmdz28t/requests/factory/index.php(6): PageFactory->getPage('pdf')
+#1 {main}
+  thrown in /home/akihstmdz28t/requests/factory/pagefactory.php on line 8
+[15-Jan-2020 13:04:35 UTC] PHP Fatal error:  Interface 'Page' not found in /home/akihstmdz28t/requests/factory/pdf.php on line 3
+[15-Jan-2020 13:07:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 8
+[15-Jan-2020 13:07:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 3
+[15-Jan-2020 13:08:27 UTC] PHP Fatal error:  Cannot redeclare spl_autoload_register() in /home/akihstmdz28t/requests/factory/index.php on line 7
+[15-Jan-2020 13:09:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 3
+[15-Jan-2020 13:09:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 3
+[15-Jan-2020 13:10:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 3
+[15-Jan-2020 13:10:11 UTC] PHP Recoverable fatal error:  Object of class Pdf could not be converted to string in /home/akihstmdz28t/requests/factory/index.php on line 11
+[15-Jan-2020 13:10:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 3
+[15-Jan-2020 13:10:12 UTC] PHP Recoverable fatal error:  Object of class Pdf could not be converted to string in /home/akihstmdz28t/requests/factory/index.php on line 11
+[15-Jan-2020 13:10:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/akihstmdz28t/requests/factory/index.php on line 3
+[15-Jan-2020 17:35:32 UTC] PHP Warning:  Use of undefined constant arr - assumed 'arr' (this will throw an Error in a future version of PHP) in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:32 UTC] PHP Notice:  Undefined offset: -1 in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:33 UTC] PHP Fatal error:  Uncaught TypeError: Return value of myFunct() must be of the type integer, null returned in /home/akihstmdz28t/requests/factory/index.php:20
+Stack trace:
+#0 /home/akihstmdz28t/requests/factory/index.php(15): myFunct(Array)
+#1 {main}
+  thrown in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:41 UTC] PHP Warning:  Use of undefined constant arr - assumed 'arr' (this will throw an Error in a future version of PHP) in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:41 UTC] PHP Notice:  Undefined offset: -1 in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:35:41 UTC] PHP Fatal error:  Uncaught TypeError: Return value of myFunct() must be of the type integer, null returned in /home/akihstmdz28t/requests/factory/index.php:20
+Stack trace:
+#0 /home/akihstmdz28t/requests/factory/index.php(15): myFunct(Array)
+#1 {main}
+  thrown in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:00 UTC] PHP Warning:  Use of undefined constant arr - assumed 'arr' (this will throw an Error in a future version of PHP) in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:00 UTC] PHP Notice:  Undefined offset: -1 in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:00 UTC] PHP Fatal error:  Uncaught TypeError: Return value of myFunct() must be of the type integer, null returned in /home/akihstmdz28t/requests/factory/index.php:20
+Stack trace:
+#0 /home/akihstmdz28t/requests/factory/index.php(15): myFunct(Array)
+#1 {main}
+  thrown in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:08 UTC] PHP Warning:  Use of undefined constant arr - assumed 'arr' (this will throw an Error in a future version of PHP) in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:08 UTC] PHP Notice:  Undefined offset: -1 in /home/akihstmdz28t/requests/factory/index.php on line 20
+[15-Jan-2020 17:36:25 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to myFunct() must be of the type array, string given, called in /home/akihstmdz28t/requests/factory/index.php on line 15 and defined in /home/akihstmdz28t/requests/factory/index.php:17
+Stack trace:
+#0 /home/akihstmdz28t/requests/factory/index.php(15): myFunct('absd')
+#1 {main}
+  thrown in /home/akihstmdz28t/requests/factory/index.php on line 17
+[15-Jan-2020 17:37:15 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to myFunct() must be of the type array, integer given, called in /home/akihstmdz28t/requests/factory/index.php on line 15 and defined in /home/akihstmdz28t/requests/factory/index.php:17
+Stack trace:
+#0 /home/akihstmdz28t/requests/factory/index.php(15): myFunct(123)
+#1 {main}
+  thrown in /home/akihstmdz28t/requests/factory/index.php on line 17
